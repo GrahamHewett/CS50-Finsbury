@@ -1,8 +1,6 @@
 #include <cs50.h>
 #include <stdio.h>
 
-int pyramid(int h);
-
 int main(void)
 {
     int input = get_int("Please enter your pyramid height: ");
